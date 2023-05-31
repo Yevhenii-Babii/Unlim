@@ -1,12 +1,16 @@
 import React from 'react';
-import { Links, NavigateList } from './navigation.styled';
+import { Links, NavigateList, Unlim } from './navigation.styled';
+import unlimLogo from '../../../images/unlinLogo.png'
 export const Navigation = () => {
   return (
     <>
     <nav>
       <NavigateList>
         <li>
-            <Links to="/"> Logo </Links>
+          <Links to="/" target="_blank">
+          
+          <Unlim src={unlimLogo}  alt="Logo unlim" /> 
+          </Links>
         </li>
         <li>
           <Links to="/">Unlim</Links>

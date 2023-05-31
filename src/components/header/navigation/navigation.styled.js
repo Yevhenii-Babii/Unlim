@@ -18,3 +18,8 @@ gap: 50px;
 justify-content: center;
 align-items: center;
 `
+export const Unlim = styled.img`
+height: 100px;
+width: 100px;
+padding-top: 10px;
+`
