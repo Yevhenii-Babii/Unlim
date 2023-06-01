@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/unlim/static/css/main.7acaea2f.css",
-    "main.js": "/unlim/static/js/main.6368580e.js",
-    "static/media/photo2.jpeg": "/unlim/static/media/photo2.02b1fa10184de40f3d45.jpeg",
-    "static/media/photo3.jpeg": "/unlim/static/media/photo3.28449d85d7b622cb7085.jpeg",
-    "static/media/photo1.jpg": "/unlim/static/media/photo1.68f7268db78d1423b401.jpg",
-    "static/media/unlinLogo.png": "/unlim/static/media/unlinLogo.161eab0927d5c43ccdf6.png",
-    "index.html": "/unlim/index.html",
-    "main.7acaea2f.css.map": "/unlim/static/css/main.7acaea2f.css.map",
-    "main.6368580e.js.map": "/unlim/static/js/main.6368580e.js.map"
+    "main.css": "/unlim_service/static/css/main.7acaea2f.css",
+    "main.js": "/unlim_service/static/js/main.3390bd3e.js",
+    "static/media/photo2.jpeg": "/unlim_service/static/media/photo2.02b1fa10184de40f3d45.jpeg",
+    "static/media/photo3.jpeg": "/unlim_service/static/media/photo3.28449d85d7b622cb7085.jpeg",
+    "static/media/photo1.jpg": "/unlim_service/static/media/photo1.68f7268db78d1423b401.jpg",
+    "static/media/unlinLogo.png": "/unlim_service/static/media/unlinLogo.161eab0927d5c43ccdf6.png",
+    "index.html": "/unlim_service/index.html",
+    "main.7acaea2f.css.map": "/unlim_service/static/css/main.7acaea2f.css.map",
+    "main.3390bd3e.js.map": "/unlim_service/static/js/main.3390bd3e.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.6368580e.js"
+    "static/js/main.3390bd3e.js"
   ]
 }
