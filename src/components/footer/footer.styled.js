@@ -7,10 +7,7 @@ padding-bottom: 40px;
 background-color: black;
 text-align: center;
 `
-export const BackgroundFooter = styled.div `
 
-text-align: center;
-`
 
 export const FooterLogo = styled.img`
 width: 100px;
